@@ -1,1 +1,1 @@
-# githr-management
+# hr-managemet-be-sd
